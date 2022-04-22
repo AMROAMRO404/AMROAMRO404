@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=dark&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
 <!--
 **MKhasib/mkhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AMROAMRO404&count_private=true&theme=dark&color=gradient&hide_border=true" alt = "Amro's Contribution" width = 80% >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AMROAMRO404&count_private=true&theme=dark&hide_border=true" alt = "Amro's Rating" width = 80% >
+  <img src = "https://github-readme-stats.vercel.app/api?username=AMROAMRO404&count_private=true&theme=dracula&hide_border=true" alt = "Amro's Contribution" width = 80% >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AMROAMRO404&count_private=true&theme=dracula&hide_border=true" alt = "Amro's Rating" width = 80% >
 
 </p>
 
