@@ -25,10 +25,8 @@ Here are some ideas to get you started:
 
 <br />
 
-<h2 align="center">Quick Overview 📈</h2>
-  
+<h1>Quick Overview 📈</h1>
   <p align = "center">
- 
 </p>
 
 <p align = "center">
