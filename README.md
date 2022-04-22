@@ -42,13 +42,6 @@ Here are some ideas to get you started:
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=AMROAMRO404&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff"  alt = "Amro's Languages/Frameworks" width = 400 />
 </p>
 
-
-<br />
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/AMROAMRO404/count.svg"></img>
-</div>
-
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
