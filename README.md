@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👋 I am Amro Amro
 - 🔭 I have almost 1.5+ years of experince working (part-time and internships) as a software engineer
-- 💻 I worked as a Full-stack engineer at Transcend (local outsourcing company)
+- 💻 I worked as a Software Engineer at Transcend (local outsourcing company)
 - 🌱 I am currently focusing on mastering web technolgies 
 - 😎 Further more, I was a scrum master and team lead for multiple projects in a local training program that is funded by world-bank (PSEU)
 - ⚡ Fun fact: I love playing chess, there are always a problems need to solve
