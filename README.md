@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AMROAMRO404&count_private=true&theme=dracula&hide_border=true" alt = "Amro's Contribution" width = 80% >
+  <img src = "https://github-readme-stats.vercel.app/api?username=AMROAMRO404&count_private=true&theme=dracula&color=gradient&hide_border=true" alt = "Amro's Contribution" width = 80% >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=AMROAMRO404&count_private=true&theme=dracula&hide_border=true" alt = "Amro's Rating" width = 80% >
 
 </p>
