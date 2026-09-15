@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Amro Amro
-- 🔭 I have almost 2.5+ years of experince working as a software engineer
-- 💻 I am working as a Software Engineer at Tucows/Wavelo via AHL Logics
-- 🌱 I am currently focusing on mastering backend technologies 
-- ⚡ Fun fact: I love playing chess, there are always a problems need to solve
+- 🔭 I have 4.5+ years of experience working as a backedn software engineer
+- 💻 I am working as a Software Engineer at Tucows/Wavelo
+- 🌱 I am currently focusing on mastering backend and AI technologies 
+- ⚡ Fun fact: I love playing chess; there are always problems to solve
 
 <br />
 
